@@ -4,6 +4,7 @@
   "description": "Automated Test Repository using Cypress",
   "main": "cypress.config.js",
   "scripts": {
+    "cy:open": "cypress open",
     "test": "cypress run"
   },
   "repository": {
